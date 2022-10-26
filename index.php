@@ -118,7 +118,9 @@
   <br><br><br>
   <h1>2.2: <i>Diagram Development Environment (Physical / Logical)</i></h1>
   <ul class="incremental">
-    <img src="./images/Diagram 2.2.png" alt="" style="width:50%; height: 50%;"/>
+    <img src="./images/Development Chart.png" alt="" style="width:50%; height: 50%;"/>
+    <img src="./images/Physical Chart.png" alt="" style="width:50%; height: 50%;"/>
+
   </ul>
 </div>
 
@@ -129,46 +131,84 @@
     <h3 style="font-style: italic;">JavaScript Client-Side</h3>
         <li>Had to whiteboard what I wanted to do beforehand before actually programming everything</li>
         <li>Sudo code was done</li>
-        <li>Thought the client-side dynamic squares and cubes and the algorithim for it was fairly easy</li>
+        <li>Thought the client-side dynamic squares and cubes and the algorithm for it was fairly easy</li>
         <li>Definitely still needed to look things up like event handlers for HTML and the creation of elements</li>
-        <li>After getting the creation of elements using JavaScript figured out, I was able to use an algorithim with a time complexity of O(1)</li>
+        <li>After getting the creation of elements using JavaScript figured out, I was able to use an algorithm with a time complexity of O(1)</li>
   </ul>
 </div>
 
 <div class="section slide level1" id="2.4">
   <br><br><br>
-  <h1>2.4: <i>Solution to Lab 1</i></h1>
+  <h1>2.4: <i>Solution to Lab 1 JavaScript</i></h1>
+  <a href="http://167.99.253.247/csc443/delgadoj11/tables_html/">http://167.99.253.247/csc443/delgadoj11/tables_html/ </a>
   <ul class="incremental">
-    <img src="./images/Diagram 2.4.png" alt="" style="width:50%; height: 50%;"/>
+    <img src="./images/Lab Solution 1.png" alt="" style="width:50%; height: 50%;"/>
   </ul>
 </div>
 
 <div class="section slide level1" id="2.5">
   <br><br><br>
-  <h1>2.5 <i>How this Site is Hosted</i></h1>
+  <h1>2.5 <i>Describe your experience with Lab 2 (server-side dynamic table of squares and cubes 1-30)</i></h1>
   <ul class="incremental">
-    <h3 style="font-style: italic;">This site is hosted locally</h3>
-      <p style="font-size: 3rem; line-height: 100%;">Essentially, this site is hosted on my computer's local server. This means when the address localhost:5500 
-        or 127.0.0.1:5500 (the left of the colon being the IP Address while the right being the port it's being hosted)
-        on. Locally hosted can't be accessed via the internet since it's only running within my own computer yet a diagram
-        where it's being accessed through the web can be shown.
-      </p>
+    <h3 style="font-style: italic;">PHP Server-Side</h3>
+      <li>Definitely a bit harder for me, I wasn't too experienced with PHP</li>
+      <li>I didn't completely understand PHP and how its server sided rendering worked</li>
+      <li>Talked with the professor and my group mates about PHP</li>
+      <li>Really dived into getting the solution made with my group mate to find a solution</li>
+      <li>Implemented it with the benchmark as well so we would be able to see the comparison of server-side and client-side</li>
 
 </div>
 <div class="section slide level1" id="2.6">
   <br><br><br>
-  <h1>2.6 <i>Site Host Diagram</i></h1>
-    <ul><img src="./images/Diagram 2.6.png" alt="" style="width:50%; height: 50%;"/></ul>
-
-  <a class="email" href="mailto:Delgadoj11@southernct.edu">
-  <ul style=
-    "text-align: right;
-    font-family: Verdana,sans-serif;
-    text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
-    Delgadoj11@southernct.edu</a><br>
-    <img class="right-side-image" src="../images/scsu-logo-compact-blue.png"></ul>
-  </ul>
+  <h1>2.6 <i>Solution to Lab 2 PHP</i></h1>
+    <a href="http://167.99.253.247/csc443/delgadoj11/tables_php/">http://167.99.253.247/csc443/delgadoj11/tables_php/ </a>
+    <ul><img src="./images/Lab Solution 2.png" alt="" style="width:50%; height: 50%;"/></ul>
 </div>
 
+<div class="section slide level1" id="2.8">
+  <br><br><br>
+  <h1>2.8 <i>Describing my CSC 443 ThemePark Pages</i></h1>
+    <a href="http://167.99.253.247/csc443/delgadoj11/themeParkProposal/">http://167.99.253.247/csc443/delgadoj11/themeParkProposal/ </a>
+    <li>Proposed ThemePark page is for PC Builds</li>
+    <li>Website would be used to find out what kind of PC build you would need for your specific workflow and its budget</li>
+    <li>Anyone can go to the website to see what may be good for them or just inspire some ideas in them for their own optimized build</li>
+</div>
+<div class="section slide level1" id="2.9">
+  <br><br><br>
+  <h1>2.9 <i>Display Team Member's Names and A Link</i></h1>
+  <h3 style="font-style: italic;">Team Member's link</h3>
+                <li> Aaron - <a href="http://167.99.253.247/csc443/hauserm3/CSC443/theme_park/themepark.php">http://167.99.253.247/csc443/hauserm3/CSC443/theme_park/themepark.php</a></li>
+                <li> Felix - <a href="http://167.99.253.247/csc443/fernandezf2/CSC-443/Assignment3/">http://167.99.253.247/csc443/fernandezf2/CSC-443/Assignment3/</a></li>
+                <li> Sam - <a href="http://167.99.253.247/csc443/beebes3/Assignments/3/themepark.php">http://167.99.253.247/csc443/beebes3/Assignments/3/themepark.php</a></li>
+                <li> Maxwell - <a href="http://167.99.253.247/csc443/delgadoj11/themeParkProposal/">http://167.99.253.247/csc443/delgadoj11/themeParkProposal/</a></li>
+</div>
+<div class="section slide level1" id="2.10">
+  <br><br><br>
+  <h1>2.10: <i>Describe how your web presentation is hosted and how you made your presentation web-accessible</i></h1>
+  <ul class="incremental">
+    <li>The presentation is available with the Droplet having a server to serve the files in the given directory URL</li>
+    <li>Made the HTML file PHP so everything is rendered server side first</li>
+    <li>Any part of what I want to be displayed on the web can be found through the IP address and its route in any browser with internet access</li>
+    <li>Use Git for DevOps, pulled from final branch and got it onto the droplet</li>
+</ul>
+</div>
+
+<div class="section slide level1" id="2.11">
+  <br><br><br>
+  <h1>2.11 <i>Draw a diagram detailing how the web presentation is hosted</i></h1>
+  <ul class="incremental">
+  <a href="167.99.253.247/csc443/delgadoj11/csc443-presentation2/">167.99.253.247/csc443/delgadoj11/csc443-presentation2/</a>
+  <img src="./images/Website Hosted.png" alt="" style="width:50%; height: 50%;"/>
+</div>
+
+<div class="section slide level1" id="2.12">
+  <br><br><br>
+  <h1>2.12: <i>What I would like to explore</i></h1>
+  <ul class="incremental">
+    <li>I would like to explore dynamic content further. I’m not really confident in anything that has to be displayed based on some parameters from some data in a server so I’m curious to see how that all works.
+</li>
+   
+</ul>
+</div>
 </body>
 </html>
